@@ -8,7 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "16.6.2"
+    "next": "16.2.6"
   },
   "devDependencies": {
     "typescript": "^5",
